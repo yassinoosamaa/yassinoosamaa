@@ -2,4 +2,4 @@
 - 👀 I’m interested in : programming & graphic design
 - 🌱 I’m currently learning : HTML & Python
 - 📫 How to reach me : My website {yassinosama.netlify.app}
-- 😄 Pronouns: He & His
+- 😄 Pronouns: He & Him
